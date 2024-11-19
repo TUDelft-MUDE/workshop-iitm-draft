@@ -1,8 +1,13 @@
 ---
-layout: page
-title: About
-description: >-
-    Course policies and information.
+layout: home
+title: Home Page
+description: Home Page
+nav_order: 1
+nav_exclude: false
+permalink: /:path/
+seo:
+  type: Course
+  name: Home
 ---
 
 # About
