@@ -17,8 +17,8 @@ title: IITM Workshop
 tagline: a simple website
 description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Robert Lanzafame, MUDE
-baseurl: 'workshop-iitm-draft/' # the subpath of your site, e.g. /blog
-url: 'https://tudelft-mude.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/' # the subpath of your site, e.g. /blog
+url: 'https://tudelft-mude.github.io/workshop-iitm-draft' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: 
   [
     "Gemfile",
