@@ -92,11 +92,23 @@
       @extend .fs-2;
     }
 
-    &.lecture {
+    &.Lecture {
+      background-color: $green-100;
+    }
+
+    &.Student-collaboration-space-optional {
+      background-color: $grey-lt-300;
+    }
+
+    &.Classroom-Workshops {
+      background-color: $green-000;
+    }
+
+    &.No-In-class-Sessions {
       background-color: $grey-dk-000;
     }
 
-    &.section {
+    &.application-session {
       background-color: $purple-000;
     }
 
