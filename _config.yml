@@ -22,8 +22,8 @@ url: 'https://tudelft-mude.github.io/' # the base hostname & protocol for your s
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
-remote_theme: just-the-docs/just-the-docs@v0.10.0
-color_scheme: light
+theme: just-the-docs
+color_scheme: wider
 search_enabled: true
 heading_anchors: true
 permalink: pretty
@@ -33,6 +33,7 @@ aux_links:
   Files:
     - 'https://tudelft-mude.github.io/workshop-iitm-files/students/'
 footer_content:
+aux_links_new_tab: true
 
 # Collections for website data
 collections:
