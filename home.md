@@ -13,9 +13,13 @@ seo:
 # Welcome to the MUDE in Madras
 {:.no_toc}
 
-_View this page as a_ **Student**{: .label .label-green }
+_Workshop participants should view this page as a_ **Student**{: .label .label-green }
 
-MUDE in Madras is a module at the Civil Engineering and Geosciences faculty of Delft University of Technology: {{ site.tagline }}, taken by all first year students in the MSc degree programs Applied Earth Sciences (AES), Environmental Engineering (EE) and Civil Engineering (CE).
+MUDE in Madras is course for civil engineers and geoscientists that focuses not only on theory, but also using computation to solve real world problems. This page introduces the key components of the course.
+
+*This page shows the most recent announcement. Frequently used pages are found via the links at the top right.*
+
+*See [Course Info page]({{ site.baseurl }}/info) for additional information.*
 
 ### Most recent announcement
 

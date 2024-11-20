@@ -2,12 +2,13 @@
 layout: page
 title: Workshop Overview
 nav_exclude: false
+nav_order: 4
 description: An overview of the workshop for participants.
 ---
 
 # Workshop Overview
 
-_View this page as a_ **Participant**{: .label .label-blue }
+_View this page as a_ **Participant**{: .label .label-red }
 
 Below you can find an outline of the workshop sessions, along with a brief description of each day, each of which has a specific perspective to keep the sessions focused and allow the participants to first observe what is done at TU Delft and eventually translate that to a plan for what could be done at IIT Madras.
 
