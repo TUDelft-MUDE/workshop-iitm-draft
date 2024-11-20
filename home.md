@@ -15,8 +15,6 @@ seo:
 
 _Workshop participants should view this page as a_ **Student**{: .label .label-green }
 
-MUDE in Madras is course for civil engineers and geoscientists that focuses not only on theory, but also using computation to solve real world problems. This page introduces the key components of the course.
-
 *This page shows the most recent announcement. Frequently used pages are found via the links at the top right.*
 
 *See [Course Info page]({{ site.baseurl }}/info) for additional information.*
@@ -30,9 +28,3 @@ MUDE in Madras is course for civil engineers and geoscientists that focuses not 
 [Previous Announcements](announcements){: .btn .btn-outline .fs-3 }
 {% endif %}
 
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
