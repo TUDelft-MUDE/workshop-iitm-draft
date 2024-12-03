@@ -13,7 +13,7 @@ _View this page as a_ **Participant**{: .label .label-red }
 Below you can find an outline of the workshop sessions, along with a brief description of each day, each of which has a specific perspective to keep the sessions focused and allow the participants to first observe what is done at TU Delft and eventually translate that to a plan for what could be done at IIT Madras.
 
 {: .note }
-Our hope is that you are able to **complete the reading, software installation and PA prior to the start of the workshop.** Prior experience with Python is not expected, so we hope the assignment is simple enough for you to experience it as real a student would. It may be challenging for you to get completely familiar with the Jupyter Notebook, so we hope you can at least read through the assignment and use the interactive page in the textbook to explore Python.
+> Our hope is that you are able to **complete the reading, software installation and PA prior to the start of the workshop.** Prior experience with Python is not expected, so we hope the assignment is simple enough for you to experience it as real a student would. It may be challenging for you to get completely familiar with the Jupyter Notebook, so we hope you can at least read through the assignment and use the interactive page in the textbook to explore Python.
 
 ![schedule](../assets/figures/week.png){:width="800px"}
 
